@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Check out my website [here](https://boredhero.github.io/)
+
+Currently working on my degree in Digital Narratives and Interactive Design, and my minor in CS
+
+I'm proficient in Python, Java, Shell Scripting, and Linux Administration
+
+I'm currently learning Rust and JS
+
 <!--
 **boredhero/boredhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
